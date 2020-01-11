@@ -10,7 +10,7 @@ Please feel free to fork this repo, then submit a pull request, or open an issue
 
 ## Bookmarks files for import
 
-* [HTML Import]()
+* [HTML Import](https://github.com/cloudymation/free-cs-bsc/blob/master/bookmarks/free-cs-bsc-bookmarks.html)
 
 ## Links
 
@@ -68,7 +68,7 @@ Please feel free to fork this repo, then submit a pull request, or open an issue
                         * [Introduction to IT Security | ITS335, 2013) - YouTube](https://www.youtube.com/watch?v=bx5CPmNbblI&list=PLvifRcqOOwF89bqRiJEWyu5k7qJaTNMRj)
                     * Artificial Intelligence
                         * [Introduction to Artificial Intelligence | CS 188, Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
-            * Intermediate and Advanced Courses
+                * Intermediate and Advanced Courses
                     * Algorithms and Data Structures
                         * [Analytic Combinatorics | Coursera](https://www.coursera.org/learn/analytic-combinatorics/home/welcome)
                     * Systems
