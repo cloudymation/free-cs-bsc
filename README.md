@@ -1,4 +1,4 @@
-# Free Batchelors Level Computer Science College Degree Equivalent
+# Free Batchelors Level Computer Science Degree Equivalent
 
 This is a curated list of URLs based on the 2014 aGupieWare '_[Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum](https://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)_' article for those that tend to enforce encryption while browsing the World Wide Web (The article only appears to be available via unencrypted HTTP).
 
